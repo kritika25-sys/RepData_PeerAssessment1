@@ -145,7 +145,7 @@ plot(unique(x$interval), a, type = "l", xlab = "5 minute Interval",
      main = "time series plot")
 ```
 
-![plot of chunk unnamed-chunk-6](figure/unnamed-chunk-6-1.png)
+![plot of chunk unnamed-chunk-6](unnamed-chunk-6-1.png)
 
 * Which 5-minute interval, on average across all the days in the dataset, contains the maximum number of steps?
 
@@ -220,7 +220,7 @@ hist(d2$Steps, xlab = "Total number of steps taken per day",
      col = "pink")
 ```
 
-![plot of chunk unnamed-chunk-10](figure/unnamed-chunk-10-1.png)
+![plot of chunk unnamed-chunk-10](unnamed-chunk-10-1.png)
 
 ```r
 print(paste("Mean of the total number of steps taken per day:", mean(y)))
@@ -291,5 +291,5 @@ plot(unique(x1$interval), a3, type="l", ylim = c(0,30), xlab = "Interval",
 legend("topright", legend="Weekend")
 ```
 
-![plot of chunk unnamed-chunk-12](figure/unnamed-chunk-12-1.png)
+![plot of chunk unnamed-chunk-12](unnamed-chunk-12-1.png)
 
