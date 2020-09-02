@@ -101,7 +101,7 @@ hist(d2$Steps, xlab = "Total number of steps taken per day",
      col = "light pink")
 ```
 
-![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4-1.png)
+![plot of chunk unnamed-chunk-4](unnamed-chunk-4-1.png)
 
 
 * The mean and median of the total number of steps taken per day
